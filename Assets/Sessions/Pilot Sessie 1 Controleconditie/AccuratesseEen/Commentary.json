@@ -1,0 +1,30 @@
+{
+    "explanation": [
+        {
+            "text": "Je hebt net geoefend met het herkennen van de Engelse klank \uf028  zoals in \"c<b>a</b>t\". ",
+            "soundName": "R_ae_A_AC_Je_hebt_net_geoefend_met_het_herkennen.mp3"
+        },
+        {
+            "text": "Nu ga je oefenen met het spellen van de Engelse klank  \uf028  .",
+            "soundName": "R_ae_A_AC_Nu_ga_je_oefenen_met_het_spellen.mp3"
+        },
+        {
+            "text": "Luister goed naar het woord en kies de ontbrekende letter. ",
+            "soundName": "R_ae_A_AC_Luister_goed_naar_het_woord.mp3"
+        }
+    ],
+    "feedback": [
+        {
+            "Key": 1,
+            "Value": []
+        },
+        {
+            "Key": 2,
+            "Value": []
+        },
+        {
+            "Key": 3,
+            "Value": []
+        }
+    ]
+}

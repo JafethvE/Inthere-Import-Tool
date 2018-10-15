@@ -1,0 +1,258 @@
+[
+    {
+        "soundName": "England.mp3",
+        "word": "England",
+        "difficulty": {
+            "level": 1,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Orange.mp3",
+        "word": "Orange",
+        "difficulty": {
+            "level": 1,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "In.mp3",
+        "word": "In",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Quick.mp3",
+        "word": "Quick",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Live.mp3",
+        "word": "Live",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Big.mp3",
+        "word": "Big",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Is.mp3",
+        "word": "Is",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Think.mp3",
+        "word": "Think",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "English.mp3",
+        "word": "English",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Children.mp3",
+        "word": "Children",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Winter.mp3",
+        "word": "Winter",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "British.mp3",
+        "word": "British",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Language.mp3",
+        "word": "Language",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Sister.mp3",
+        "word": "Sister",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Africa.mp3",
+        "word": "Africa",
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Basketball.mp3",
+        "word": "Basketball",
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "America.mp3",
+        "word": "America",
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Supermarket.mp3",
+        "word": "Supermarket",
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Exotic.mp3",
+        "word": "Exotic",
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "December.mp3",
+        "word": "December",
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Rhythm.mp3",
+        "word": "Rhythm",
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Ship.mp3",
+        "word": "Ship",
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Build.mp3",
+        "word": "Build",
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Hill.mp3",
+        "word": "Hill",
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Gym.mp3",
+        "word": "Gym",
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Bridge.mp3",
+        "word": "Bridge",
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Boring.mp3",
+        "word": "Boring",
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Jacket.mp3",
+        "word": "Jacket",
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Mountain.mp3",
+        "word": "Mountain",
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Artist.mp3",
+        "word": "Artist",
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Competition.mp3",
+        "word": "Competition",
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Telephone.mp3",
+        "word": "Telephone",
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    }
+]

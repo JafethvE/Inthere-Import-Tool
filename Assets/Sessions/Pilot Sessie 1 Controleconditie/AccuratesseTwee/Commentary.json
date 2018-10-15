@@ -1,0 +1,40 @@
+{
+    "explanation": [
+        {
+            "text": "Deze oefening lijkt op de voorgaande oefening. ",
+            "soundName": "R_ae_A_SN_Deze_oefening_lijkt_op_de_voorgaande_oefening.mp3"
+        },
+        {
+            "text": "Net als bij de voorgaande oefening, moet je de juiste ontbrekende letter in het woord kiezen. ",
+            "soundName": "R_ae_A_SN_Net_als_bij_de_voorgaande_oefening.mp3"
+        }
+    ],
+    "standardFeedback": [
+        {
+            "Key": 1,
+            "Value": []
+        },
+        {
+            "Key": 2,
+            "Value": []
+        },
+        {
+            "Key": 3,
+            "Value": []
+        }
+    ],
+    "otherFeedback": [
+        {
+            "Key": 1,
+            "Value": []
+        },
+        {
+            "Key": 2,
+            "Value": []
+        },
+        {
+            "Key": 3,
+            "Value": []
+        }
+    ]
+}

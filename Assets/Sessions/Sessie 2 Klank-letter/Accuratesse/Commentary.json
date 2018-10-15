@@ -1,0 +1,101 @@
+{
+    "explanation": [
+        {
+            "text": "Je hebt net geoefend met het herkennen van de Engelse klank  \uf028  zoals in \"<b>i</b>n\". ",
+            "soundName": "R_i_A_AC_Je_hebt_net_geoefend_met_het_herkennen_i.mp3"
+        },
+        {
+            "text": "Nu ga je oefenen met het spellen van de Engelse klank  \uf028 .",
+            "soundName": "R_i_A_AC_Nu_ga_je_oefenen_met_het_spellen_i.mp3"
+        },
+        {
+            "text": "Zoals je weet, wordt deze klank heel vaak als <b>i</b> geschreven. ",
+            "soundName": "R_i_A_AC_Zoals_je_weet_wordt_deze_klank_i.mp3"
+        },
+        {
+            "text": "Een voorbeeld: \"<b>i</b>n\". ",
+            "soundName": "R_i_A_AC_Een_voorbeeld_in.mp3"
+        },
+        {
+            "text": "De klank  \uf028  schrijf je dus heel vaak als <b>i</b>. ",
+            "soundName": "R_i_A_AC_De_klank_i_schrijf_je_dus_heel_vaak_als_i.mp3"
+        },
+        {
+            "text": "Luister goed naar het woord en kies de ontbrekende letter. ",
+            "soundName": "R_i_A_AC_Luister_goed_naar_het_woord.mp3"
+        }
+    ],
+    "standardFeedback": [
+        {
+            "Key": 1,
+            "Value": [
+                {
+                    "text": "Luister en kijk goed, het gaat om de klank  \uf028 .",
+                    "soundName": "F1D_i_A_AC_Luister_en_kijk_goed_het_gaat_i.mp3"
+                },
+                {
+                    "text": "Deze klank wordt in het Engels heel vaak als <b>i</b> geschreven. ",
+                    "soundName": "F1D_i_A_AC_Deze_klank_wordt_in_het_Engels_heel_vaak_als_i_geschreven.mp3"
+                },
+                {
+                    "text": "Kijk maar: \"<b>i</b>n\".",
+                    "soundName": "F1D_i_A_AC_Kijk_maar_in.mp3"
+                },
+                {
+                    "text": "De klank  \uf028  schrijf je dus heel vaak als <b>i</b>. Vergeet dit niet!",
+                    "soundName": "F1D_i_A_AC_De_klank_I_schrijf_je_i.mp3"
+                },
+                {
+                    "text": "Let op! De ontbrekende letter is soms een medeklinker.",
+                    "soundName": "Let op medeklinker_7.wav"
+                }
+            ]
+        },
+        {
+            "Key": 2,
+            "Value": [
+                {
+                    "text": "Denk aan hoe de klank  \uf028  in \"in\" geschreven wordt. ",
+                    "soundName": "F2D_i_A_AC_Denk_aan_hoe_de_klank_i_in_in.mp3"
+                },
+                {
+                    "text": "Let op! De ontbrekende letter is soms een medeklinker.",
+                    "soundName": "Let op medeklinker_7.wav"
+                }
+            ]
+        },
+        {
+            "Key": 3,
+            "Value": [
+                {
+                    "text": "Dat is helaas niet het goede antwoord. Het goede antwoord is: {CorrectAnswer}",
+                    "soundName": "F3_1_A_AC_Dat_is_helaas_niet_het_goede_antwoord.mp3"
+                }
+            ]
+        }
+    ],
+    "otherFeedback": [
+        {
+            "Key": 1,
+            "Value": [
+                {
+                    "text": "Kijk nogmaals goed naar het woord en de ontbrekende letter. ",
+                    "soundName": "F2F_i_A_AC_Kijk_nogmaals_goed_naar_het_woord.mp3"
+                }
+            ]
+        },
+        {
+            "Key": 2,
+            "Value": [
+                {
+                    "text": "Dat is helaas niet het goede antwoord. Het goede antwoord is: {CorrectAnswer}",
+                    "soundName": "F3_1_A_AC_Dat_is_helaas_niet_het_goede_antwoord.mp3"
+                }
+            ]
+        },
+        {
+            "Key": 3,
+            "Value": []
+        }
+    ]
+}

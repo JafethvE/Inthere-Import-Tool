@@ -1,0 +1,258 @@
+[
+    {
+        "soundName": "Sit.mp3",
+        "word": "Sit",
+        "difficulty": {
+            "level": 1,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Fit.mp3",
+        "word": "Fit",
+        "difficulty": {
+            "level": 1,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Big.mp3",
+        "word": "Big",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Drink.mp3",
+        "word": "Drink",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Milk.mp3",
+        "word": "Milk",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Fish.mp3",
+        "word": "Fish",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Think.mp3",
+        "word": "Think",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Chips.mp3",
+        "word": "Chips",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Dinner.mp3",
+        "word": "Dinner",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Kitchen.mp3",
+        "word": "Kitchen",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "City.mp3",
+        "word": "City",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Chicken.mp3",
+        "word": "Chicken",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Children.mp3",
+        "word": "Children",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Evening.mp3",
+        "word": "Evening",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "American.mp3",
+        "word": "American",
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Beautiful.mp3",
+        "word": "Beautiful",
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Hospital.mp3",
+        "word": "Hospital",
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Magical.mp3",
+        "word": "Magical",
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Cinema.mp3",
+        "word": "Cinema",
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Animal.mp3",
+        "word": "Animal",
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Dish.mp3",
+        "word": "Dish",
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Dip.mp3",
+        "word": "Dip",
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Fill.mp3",
+        "word": "Fill",
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "List.mp3",
+        "word": "List",
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Fridge.mp3",
+        "word": "Fridge",
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Thick.mp3",
+        "word": "Thick",
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Pudding.mp3",
+        "word": "Pudding",
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Plastic.mp3",
+        "word": "Plastic",
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Garlic.mp3",
+        "word": "Garlic",
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Liquid.mp3",
+        "word": "Liquid",
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Invention.mp3",
+        "word": "Invention",
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Delicious.mp3",
+        "word": "Delicious",
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    }
+]

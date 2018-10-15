@@ -1,0 +1,37 @@
+{
+    "explanation": [
+        {
+            "text": "Voordat we gaan oefenen met het schrijven van de klank  \uf028  , gaan we eerst op zoek naar woorden met  \uf028  .",
+            "soundName": "R_ae_A_FH_Voordat_we_gaan_oefenen_met_het_schrijven_ae.mp3"
+        },
+        {
+            "text": "Je krijgt eerst een woord met de klank  \uf028   te horen, daarna moet je bij het gehoorde woord een ander woord zoeken dat ook de klank  \uf028  heeft. ",
+            "soundName": "R_ae_A_FH_Je_krijgt_eerst_een_woord_met_de_klank_\u00e6_te_horen.mp3"
+        },
+        {
+            "text": "Luister goed naar het woord en kies het andere woord met de klank  \uf028  .",
+            "soundName": "R_ae_A_FH_Luister_goed_naar_het_woord_ae.mp3"
+        }
+    ],
+    "standardFeedback": [
+        {
+            "Key": 1,
+            "Value": []
+        },
+        {
+            "Key": 2,
+            "Value": []
+        },
+        {
+            "Key": 3,
+            "Value": []
+        },
+        {
+            "Key": 4,
+            "Value": []
+        }
+    ],
+    "otherFeedback": {
+
+    }
+}

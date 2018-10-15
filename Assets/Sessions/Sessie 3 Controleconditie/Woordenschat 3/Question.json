@@ -1,0 +1,114 @@
+[
+    {
+        "combinations": [
+            {
+                "dutch": "omdat",
+                "english": "because"
+            },
+            {
+                "dutch": "frans",
+                "english": "french"
+            },
+            {
+                "dutch": "amerikaans",
+                "english": "american"
+            }
+        ]
+    },
+    {
+        "combinations": [
+            {
+                "dutch": "winter",
+                "english": "winter"
+            },
+            {
+                "dutch": "lente",
+                "english": "spring"
+            },
+            {
+                "dutch": "postzegel",
+                "english": "stamp"
+            }
+        ]
+    },
+    {
+        "combinations": [
+            {
+                "dutch": "kaartje",
+                "english": "ticket"
+            },
+            {
+                "dutch": "auto",
+                "english": "car"
+            },
+            {
+                "dutch": "duits",
+                "english": "german"
+            }
+        ]
+    },
+    {
+        "combinations": [
+            {
+                "dutch": "fruit",
+                "english": "fruits"
+            },
+            {
+                "dutch": "engels",
+                "english": "english"
+            },
+            {
+                "dutch": "zuiden",
+                "english": "south"
+            }
+        ]
+    },
+    {
+        "combinations": [
+            {
+                "dutch": "afrikaans",
+                "english": "african"
+            },
+            {
+                "dutch": "koud",
+                "english": "cold"
+            },
+            {
+                "dutch": "nederlands",
+                "english": "dutch"
+            }
+        ]
+    },
+    {
+        "combinations": [
+            {
+                "dutch": "noorden",
+                "english": "north"
+            },
+            {
+                "dutch": "brief",
+                "english": "letter"
+            },
+            {
+                "dutch": "koningin",
+                "english": "queen"
+            }
+        ]
+    },
+    {
+        "combinations": [
+            {
+                "dutch": "herfst",
+                "english": "autumn"
+            },
+            {
+                "dutch": "groot",
+                "english": "big"
+            },
+            {
+                "dutch": "land",
+                "english": "country"
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "explanation": [
+        {
+            "text": "Zoals je weet, wordt de Engelse klank  \uf028  vaak als <b>i</b> gespeld. ",
+            "soundName": "R_i_A_PR_Zoals_je_weet_wordt_de_Engelse_klank_i.mp3"
+        },
+        {
+            "text": "Kun je de volgende woorden goed spellen?",
+            "soundName": "R_i_A_PR_Kun_je_de_volgende_woorden.mp3"
+        },
+        {
+            "text": "Je hebt deze woorden tot nu toe heel vaak gezien. ",
+            "soundName": "R_i_A_PR_Je_hebt_deze_woorden.mp3"
+        },
+        {
+            "text": "Luister goed en schrijf het woord op. ",
+            "soundName": "R_i_A_PR_Luister_goed_en_schrijf_het_woord_op.mp3"
+        }
+    ],
+    "standardFeedback": [
+        {
+            "Key": 1,
+            "Value": [
+                {
+                    "text": "Dat is helaas niet het goede antwoord. Het goede antwoord is: {CorrectAnswer}",
+                    "soundName": "F1_i_A_PR_Dat_is_helaas_niet_het_goede_antwoord.mp3"
+                }
+            ]
+        }
+    ],
+    "otherFeedback": {
+
+    }
+}

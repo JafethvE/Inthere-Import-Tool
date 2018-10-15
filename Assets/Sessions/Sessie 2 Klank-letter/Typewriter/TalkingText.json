@@ -1,0 +1,59 @@
+[
+    {
+        "soundName": "Spaceletter_Food",
+        "text": "Hi! I hope you liked the story that Mika told last time. Today she will tell you a bit more about life on earth!",
+        "keyPoints": [],
+        "clickableWords": []
+    },
+    {
+        "soundName": "Food_story",
+        "text": "Hi, it\u2019s Mika again! By now you know that my family loves to eat! At lunchtime, we always sit at the kitchen table for a long time. My dad then reads the newspaper. You already know that we like to eat soup, salad, biscuits, sandwiches, boiled eggs, hamburgers and fruit. But we also like chicken, ham, potatoes, vegetables and pasta. My favourite pasta is spaghetti with tomato sauce! I eat my spaghetti with a spoon and fork. I also like to have a slice of carrot cake or lemon pie for dessert! I often drink a glass of milk with my lunch. Whenever we go to the cinema in the city centre, we get fish and chips in the evening for dinner! I like to see American films on the big screen at the cinema next to the hospital. In the first row, the view is perfect! The last movie I saw was about a mad cowboy who could speak to animals. He went into the jungle and had an unusual adventure with a lion, a bat, and a wolf. There was also a beautiful butterfly. He had lots of fights, but afterwards he was still alive! The cowboy was very fit and powerful! I think all children will love this film! It is just fabulous, magical!",
+        "keyPoints": [],
+        "clickableWords": [
+            {
+                "word": "already",
+                "comment": "al"
+            },
+            {
+                "word": "often",
+                "comment": "vaak"
+            },
+            {
+                "word": "whenever",
+                "comment": "wanneer"
+            },
+            {
+                "word": "city centre",
+                "comment": "stadscentrum"
+            },
+            {
+                "word": "mad",
+                "comment": "gek"
+            },
+            {
+                "word": "unusual",
+                "comment": "bijzonder"
+            },
+            {
+                "word": "adventure",
+                "comment": "avontuur"
+            },
+            {
+                "word": "bad",
+                "comment": "vleermuis"
+            },
+            {
+                "word": "alive",
+                "comment": "levend"
+            },
+            {
+                "word": "powerful",
+                "comment": "krachtig"
+            },
+            {
+                "word": "fabulous",
+                "comment": "geweldig"
+            }
+        ]
+    }
+]

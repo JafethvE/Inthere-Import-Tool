@@ -1,0 +1,30 @@
+{
+    "explanation": [
+        {
+            "text": "Je hebt net geoefend met het herkennen van de Engelse klank  \\U0000f028  zoals in \"<b>i</b>n\". ",
+            "soundName": "R_i_L_AC_Je_hebt_net_geoefend_met_het_herkennen_i.mp3"
+        },
+        {
+            "text": "Nu ga je oefenen met het spellen van de Engelse klank  \\U0000f028 .",
+            "soundName": "R_i_L_AC_Nu_ga_je_oefenen_met_het_spellen_i.mp3"
+        },
+        {
+            "text": "Luister goed naar het woord en kies de ontbrekende letter. ",
+            "soundName": "R_i_L_AC_Luister_goed_naar_het_woord.mp3"
+        }
+    ],
+    "feedback": [
+        {
+            "Key": 1,
+            "Value": []
+        },
+        {
+            "Key": 2,
+            "Value": []
+        },
+        {
+            "Key": 3,
+            "Value": []
+        }
+    ]
+}

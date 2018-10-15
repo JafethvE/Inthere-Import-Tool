@@ -1,0 +1,37 @@
+{
+    "explanation": [
+        {
+            "text": "Je krijgt zo woorden met de klank  \uf028  te horen. ",
+            "soundName": "R_i_L_FH_Je_krijgt_zo_woorden_met_de_klank_i.mp3"
+        },
+        {
+            "text": "Kies daarna het andere woord dat ook de klank  \uf028  heeft. ",
+            "soundName": "R_i_L_FH_Kies_daarna_het_andere_woord_i.mp3"
+        },
+        {
+            "text": "Luister goed naar het woord en kies het andere woord met de klank  \uf028  . ",
+            "soundName": "R_i_L_FH_Luister_goed_naar_het_woord_en_kies.mp3"
+        }
+    ],
+    "standardFeedback": [
+        {
+            "Key": 1,
+            "Value": []
+        },
+        {
+            "Key": 2,
+            "Value": []
+        },
+        {
+            "Key": 3,
+            "Value": []
+        },
+        {
+            "Key": 4,
+            "Value": []
+        }
+    ],
+    "otherFeedback": {
+
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "explanation": [
+        {
+            "text": "Je hebt net geoefend met het herkennen van de Engelse klank  \uf028  zoals in \"<b>i</b>n\". ",
+            "soundName": "R_i_A_AC_Je_hebt_net_geoefend_met_het_herkennen_i.mp3"
+        },
+        {
+            "text": "Nu ga je oefenen met het spellen van de Engelse klank  \uf028 .",
+            "soundName": "R_i_A_AC_Nu_ga_je_oefenen_met_het_spellen_i.mp3"
+        },
+        {
+            "text": "Zoals je weet, wordt deze klank heel vaak als <b>i</b> geschreven. ",
+            "soundName": "R_i_A_AC_Zoals_je_weet_wordt_deze_klank_i.mp3"
+        },
+        {
+            "text": "Een voorbeeld: \"<b>i</b>n\". ",
+            "soundName": "R_i_A_AC_Een_voorbeeld_in.mp3"
+        },
+        {
+            "text": "De klank  \uf028  schrijf je dus heel vaak als <b>i</b>. ",
+            "soundName": "R_i_A_AC_De_klank_i_schrijf_je_dus_heel_vaak_als_i.mp3"
+        },
+        {
+            "text": "Luister goed naar het woord en kies de ontbrekende letter. ",
+            "soundName": "R_i_A_AC_Luister_goed_naar_het_woord.mp3"
+        }
+    ],
+    "feedback": [
+        {
+            "Key": 1,
+            "Value": []
+        },
+        {
+            "Key": 2,
+            "Value": []
+        },
+        {
+            "Key": 3,
+            "Value": []
+        }
+    ]
+}

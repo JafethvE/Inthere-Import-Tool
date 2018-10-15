@@ -1,0 +1,114 @@
+[
+    {
+        "combinations": [
+            {
+                "dutch": "appel",
+                "english": "apple"
+            },
+            {
+                "dutch": "chocolade",
+                "english": "chocolate"
+            },
+            {
+                "dutch": "koekje",
+                "english": "biscuit"
+            }
+        ]
+    },
+    {
+        "combinations": [
+            {
+                "dutch": "avondmaaltijd",
+                "english": "dinner"
+            },
+            {
+                "dutch": "spek",
+                "english": "bacon"
+            },
+            {
+                "dutch": "saus",
+                "english": "sauce"
+            }
+        ]
+    },
+    {
+        "combinations": [
+            {
+                "dutch": "maaltijd",
+                "english": "meal"
+            },
+            {
+                "dutch": "ei",
+                "english": "egg"
+            },
+            {
+                "dutch": "vork",
+                "english": "fork"
+            }
+        ]
+    },
+    {
+        "combinations": [
+            {
+                "dutch": "brood",
+                "english": "bread"
+            },
+            {
+                "dutch": "middageten",
+                "english": "lunch"
+            },
+            {
+                "dutch": "bijten",
+                "english": "to bite"
+            }
+        ]
+    },
+    {
+        "combinations": [
+            {
+                "dutch": "soep",
+                "english": "soup"
+            },
+            {
+                "dutch": "bakken",
+                "english": "to bake"
+            },
+            {
+                "dutch": "salade",
+                "english": "salad"
+            }
+        ]
+    },
+    {
+        "combinations": [
+            {
+                "dutch": "koken",
+                "english": "to cook"
+            },
+            {
+                "dutch": "tafel",
+                "english": "table"
+            },
+            {
+                "dutch": "lepel",
+                "english": "spoon"
+            }
+        ]
+    },
+    {
+        "combinations": [
+            {
+                "dutch": "kauwgum",
+                "english": "chewing gum"
+            },
+            {
+                "dutch": "mes\u00a0\u00a0",
+                "english": "knife"
+            },
+            {
+                "dutch": "suiker",
+                "english": "sugar"
+            }
+        ]
+    }
+]

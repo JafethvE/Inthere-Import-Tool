@@ -1,0 +1,92 @@
+[
+    {
+        "image": "fruit.png",
+        "correctWord": "fruit",
+        "falseWords": [
+            "banana",
+            "dinner",
+            "avocado"
+        ]
+    },
+    {
+        "image": "milk.png",
+        "correctWord": "milk",
+        "falseWords": [
+            "tea",
+            "coffee",
+            "coke"
+        ]
+    },
+    {
+        "image": "hamburger.png",
+        "correctWord": "hamburger",
+        "falseWords": [
+            "meat",
+            "toast",
+            "ketchup"
+        ]
+    },
+    {
+        "image": "chips.png",
+        "correctWord": "chips",
+        "falseWords": [
+            "fish",
+            "onion",
+            "tomato"
+        ]
+    },
+    {
+        "image": "vegetables.png",
+        "correctWord": "vegetables",
+        "falseWords": [
+            "carrot",
+            "pasta",
+            "salad"
+        ]
+    },
+    {
+        "image": "potatoes.png",
+        "correctWord": "potatoes",
+        "falseWords": [
+            "oranges",
+            "rice",
+            "snack"
+        ]
+    },
+    {
+        "image": "sandwich.png",
+        "correctWord": "sandwich",
+        "falseWords": [
+            "cornflakes",
+            "pizza",
+            "candy"
+        ]
+    },
+    {
+        "image": "cake.png",
+        "correctWord": "cake",
+        "falseWords": [
+            "ice cream",
+            "muffin",
+            "cupcake"
+        ]
+    },
+    {
+        "image": "dessert.png",
+        "correctWord": "dessert",
+        "falseWords": [
+            "lunch",
+            "yoghurt ",
+            "cookie"
+        ]
+    },
+    {
+        "image": "jam.png",
+        "correctWord": "jam",
+        "falseWords": [
+            "ham",
+            "honey",
+            "strawberry"
+        ]
+    }
+]

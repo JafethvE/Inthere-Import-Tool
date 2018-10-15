@@ -1,0 +1,92 @@
+[
+    {
+        "image": "america.png",
+        "correctWord": "america",
+        "falseWords": [
+            "australia",
+            "england",
+            "africa"
+        ]
+    },
+    {
+        "image": "england.png",
+        "correctWord": "england",
+        "falseWords": [
+            "france",
+            "germany",
+            "america"
+        ]
+    },
+    {
+        "image": "africa.png",
+        "correctWord": "africa",
+        "falseWords": [
+            "australia",
+            "united states",
+            "south-america"
+        ]
+    },
+    {
+        "image": "australia.png",
+        "correctWord": "australia",
+        "falseWords": [
+            "africa",
+            "europe",
+            "austria"
+        ]
+    },
+    {
+        "image": "money.png",
+        "correctWord": "money",
+        "falseWords": [
+            "dollars",
+            "pounds",
+            "euros"
+        ]
+    },
+    {
+        "image": "world.png",
+        "correctWord": "world",
+        "falseWords": [
+            "universe",
+            "moon",
+            "sun"
+        ]
+    },
+    {
+        "image": "germany.png",
+        "correctWord": "germany",
+        "falseWords": [
+            "holland",
+            "belgium",
+            "spain"
+        ]
+    },
+    {
+        "image": "france.png",
+        "correctWord": "france",
+        "falseWords": [
+            "portugal",
+            "sweden",
+            "switzerland"
+        ]
+    },
+    {
+        "image": "basketball.png",
+        "correctWord": "basketball",
+        "falseWords": [
+            "tennis ball",
+            "football",
+            "baseball"
+        ]
+    },
+    {
+        "image": "holland.png",
+        "correctWord": "holland",
+        "falseWords": [
+            "germany",
+            "france",
+            "england"
+        ]
+    }
+]

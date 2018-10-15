@@ -1,0 +1,450 @@
+[
+    {
+        "soundName": "Cat.mp3",
+        "word": "C[a]t",
+        "correctLetter": "a",
+        "falseLetters": [
+            "e",
+            "o",
+            "u"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Fat.mp3",
+        "word": "F[a]t",
+        "correctLetter": "a",
+        "falseLetters": [
+            "ea",
+            "u",
+            "i"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Black.mp3",
+        "word": "Bl[a]ck",
+        "correctLetter": "a",
+        "falseLetters": [
+            "e",
+            "u",
+            "o"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Glad.mp3",
+        "word": "Gl[a]d",
+        "correctLetter": "a",
+        "falseLetters": [
+            "e",
+            "o",
+            "i"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Dad.mp3",
+        "word": "D[a]d",
+        "correctLetter": "a",
+        "falseLetters": [
+            "e",
+            "ea",
+            "i"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Jam.mp3",
+        "word": "Ja[m]",
+        "correctLetter": "m",
+        "falseLetters": [
+            "a",
+            "j",
+            "n"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Band.mp3",
+        "word": "[B]and",
+        "correctLetter": "b",
+        "falseLetters": [
+            "a",
+            "d",
+            "n"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Flat.mp3",
+        "word": "Fl[a]t",
+        "correctLetter": "a",
+        "falseLetters": [
+            "u",
+            "oy",
+            "e"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Apple.mp3",
+        "word": "[A]pple",
+        "correctLetter": "a",
+        "falseLetters": [
+            "e",
+            "i",
+            "u"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Granny.mp3",
+        "word": "Gr[a]nny",
+        "correctLetter": "a",
+        "falseLetters": [
+            "ea",
+            "o",
+            "i"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Salad.mp3",
+        "word": "Sa[l]ad",
+        "correctLetter": "l",
+        "falseLetters": [
+            "a",
+            "d",
+            "s"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Programme.mp3",
+        "word": "Progr[a]mme",
+        "correctLetter": "a",
+        "falseLetters": [
+            "e",
+            "oo",
+            "i"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Sandwich.mp3",
+        "word": "S[a]ndwich",
+        "correctLetter": "a",
+        "falseLetters": [
+            "e",
+            "y",
+            "o"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Happy.mp3",
+        "word": "Ha[p]py",
+        "correctLetter": "p",
+        "falseLetters": [
+            "a",
+            "y",
+            "h"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Animal.mp3",
+        "word": "[A]nimal",
+        "correctLetter": "a",
+        "falseLetters": [
+            "i",
+            "o",
+            "u"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Family.mp3",
+        "word": "F[a]mily",
+        "correctLetter": "a",
+        "falseLetters": [
+            "e",
+            "i",
+            "u"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Saturday.mp3",
+        "word": "Satur[d]ay",
+        "correctLetter": "d",
+        "falseLetters": [
+            "a",
+            "s",
+            "r"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Hamburger.mp3",
+        "word": "H[a]mburger",
+        "correctLetter": "a",
+        "falseLetters": [
+            "ea",
+            "o",
+            "u"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Africa.mp3",
+        "word": "[A]frica",
+        "correctLetter": "a",
+        "falseLetters": [
+            "i",
+            "e",
+            "ai"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "January.mp3",
+        "word": "Ja[n]uary",
+        "correctLetter": "n",
+        "falseLetters": [
+            "a",
+            "j",
+            "y"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Pack.mp3",
+        "word": "P[a]ck",
+        "correctLetter": "a",
+        "falseLetters": [
+            "e",
+            "i",
+            "u"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Mad.mp3",
+        "word": "M[a]d",
+        "correctLetter": "a",
+        "falseLetters": [
+            "o",
+            "u",
+            "i"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Cash.mp3",
+        "word": "[C]ash",
+        "correctLetter": "c",
+        "falseLetters": [
+            "a",
+            "h",
+            "s"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Fan.mp3",
+        "word": "F[a]n",
+        "correctLetter": "a",
+        "falseLetters": [
+            "e",
+            "u",
+            "ea"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Badge.mp3",
+        "word": "[B]adge",
+        "correctLetter": "b",
+        "falseLetters": [
+            "a",
+            "g",
+            "d"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Add.mp3",
+        "word": "[A]dd",
+        "correctLetter": "a",
+        "falseLetters": [
+            "e",
+            "o",
+            "ay"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Carrot.mp3",
+        "word": "C[a]rrot",
+        "correctLetter": "a",
+        "falseLetters": [
+            "e",
+            "i",
+            "o"
+        ],
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Fashion.mp3",
+        "word": "F[a]shion",
+        "correctLetter": "a",
+        "falseLetters": [
+            "e",
+            "u",
+            "i"
+        ],
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Exam.mp3",
+        "word": "Ex[a]m",
+        "correctLetter": "a",
+        "falseLetters": [
+            "e",
+            "ea",
+            "o"
+        ],
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Talent.mp3",
+        "word": "Talen[t]",
+        "correctLetter": "t",
+        "falseLetters": [
+            "a",
+            "e",
+            "l"
+        ],
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Factory.mp3",
+        "word": "F[a]ctory",
+        "correctLetter": "a",
+        "falseLetters": [
+            "e",
+            "o",
+            "y"
+        ],
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Caravan.mp3",
+        "word": "Cara[v]an",
+        "correctLetter": "v",
+        "falseLetters": [
+            "a",
+            "r",
+            "c"
+        ],
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    }
+]

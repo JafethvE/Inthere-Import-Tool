@@ -1,0 +1,29 @@
+{
+    "explanation": [
+        {
+            "text": "Je hebt in de voorgaande oefeningen ook wat uitzonderingen gezien. ",
+            "soundName": "R_i_L_PR_Je_hebt_in_de_voorgaande_oefeningen_uitzonderingen.mp3"
+        },
+        {
+            "text": "Kun je de volgende woorden goed spellen?",
+            "soundName": "R_i_L_PR_Kun_je_de_volgende_woorden.mp3"
+        },
+        {
+            "text": "Je hebt deze woorden tot nu toe heel vaak gezien. ",
+            "soundName": "R_i_L_PR_Je_hebt_deze_woorden.mp3"
+        },
+        {
+            "text": "Luister goed en schrijf het woord op. ",
+            "soundName": "R_i_L_PR_Luister_goed_en_schrijf_het_woord_op.mp3"
+        }
+    ],
+    "standardFeedback": [
+        {
+            "Key": 1,
+            "Value": []
+        }
+    ],
+    "otherFeedback": {
+
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "explanation": [
+        {
+            "text": "Zoals je net hoorde, wordt de klank  \uf028  in het Engels vaak als <b>i</b> geschreven. ",
+            "soundName": "R_i_A_FH_Zoals_je_net_hoorde_wordt_de_klank_i.mp3"
+        },
+        {
+            "text": "Je krijgt nu eerst een woord met de klank  \uf028  te horen. ",
+            "soundName": "R_i_A_FH_Je_krijgt_nu_eerst_een_woord_met_i.mp3"
+        },
+        {
+            "text": "Kies daarna het andere woord dat ook de klank  \uf028  heeft. ",
+            "soundName": "R_i_A_FH_Kies_daarna_het_andere_woord_i.mp3"
+        },
+        {
+            "text": "Luister goed naar het woord en kies het andere woord met de klank  \uf028 . ",
+            "soundName": "R_i_A_FH_Luister_goed_naar_het_woord_en_kies_i.mp3"
+        }
+    ],
+    "standardFeedback": [
+        {
+            "Key": 1,
+            "Value": [
+                {
+                    "text": "Luister goed, het gaat om de klank  \uf028 .",
+                    "soundName": "F1_i_A_FH_Luister_goed_het_gaat_om_de_klank_i.mp3"
+                },
+                {
+                    "text": "Deze klank wordt in het Engels heel vaak als <b>i</b> geschreven. ",
+                    "soundName": "F1_i_A_FH_Deze_klank_wordt_in_het_Engels_heel_vaak_als_i_geschreven.mp3"
+                },
+                {
+                    "text": "Een voorbeeld: \"<b>i</b>n\". ",
+                    "soundName": "F1_i_A_FH_Een_voorbeeld_in.mp3"
+                },
+                {
+                    "text": "In welk woord hoor je de klank  \uf028 ?",
+                    "soundName": "F1_i_A_FH_In_welk_woord_hoor_je_de_klank_i.mp3"
+                },
+                {
+                    "text": "Luister goed naar de woorden en probeer het nog eens. ",
+                    "soundName": "F1_i_A_FH_Luister_goed_naar_de_woorden_en_probeer_het_nog_eens.mp3"
+                }
+            ]
+        },
+        {
+            "Key": 2,
+            "Value": [
+                {
+                    "text": "Denk aan \"<b>i</b>n\". ",
+                    "soundName": "F2_i_A_FH_Denk_aan_in.mp3"
+                }
+            ]
+        },
+        {
+            "Key": 3,
+            "Value": [
+                {
+                    "text": "Dat is helaas niet het goede antwoord. Het goede antwoord is: {CorrectAnswer}",
+                    "soundName": "F3_i_A_FH_Dat_is_helaas_niet_het_goede_antwoord.mp3"
+                }
+            ]
+        },
+        {
+            "Key": 4,
+            "Value": []
+        }
+    ],
+    "otherFeedback": {
+
+    }
+}

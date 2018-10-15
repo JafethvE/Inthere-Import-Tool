@@ -1,0 +1,72 @@
+{
+    "explanation": [
+        {
+            "text": "Je krijgt zo woorden met de klank  \uf028  te horen. ",
+            "soundName": "R_i_L_FH_Je_krijgt_zo_woorden_met_de_klank_i.mp3"
+        },
+        {
+            "text": "Kies daarna het andere woord dat ook de klank  \uf028  heeft. ",
+            "soundName": "R_i_L_FH_Kies_daarna_het_andere_woord_i.mp3"
+        },
+        {
+            "text": "Let goed op de uitzonderingen waar de klank  \uf028  niet als <b>i</b> geschreven wordt, maar als <b>e</b>. ",
+            "soundName": "R_i_L_FH_Let_goed_op_de_uitzonderingen_i.mp3"
+        },
+        {
+            "text": "Luister goed naar het woord en kies het andere woord met de klank  \uf028  . ",
+            "soundName": "R_i_L_FH_Luister_goed_naar_het_woord_en_kies.mp3"
+        }
+    ],
+    "standardFeedback": [
+        {
+            "Key": 1,
+            "Value": [
+                {
+                    "text": "Luister goed, het gaat om de klank  \uf028 .",
+                    "soundName": "F1_i_L_FH_Luister_goed_het_gaat_om_de_klank_i.mp3"
+                },
+                {
+                    "text": "Deze klank wordt in het Engels heel vaak als <b>i</b> geschreven, maar er zijn ook uitzonderingen.  ",
+                    "soundName": "F1_i_L_FH_Deze_klank_wordt_in_het_Engels_i_uitzonderingen.mp3"
+                },
+                {
+                    "text": "Bijvoorbeeld: \"<b>i</b>n\", maar \"<b>E</b>ngland\". ",
+                    "soundName": "F1_i_L_FH_Bijvoorbeeld_in_England.mp3"
+                },
+                {
+                    "text": "In welk woord hoor je de klank  \uf028 ? Probeer het nog eens.",
+                    "soundName": "F1_i_L_FH_In_welk_woord_hoor_je_de_klank_i.mp3"
+                },
+                {
+                    "text": "Luister goed naar de woorden en probeer het nog eens. ",
+                    "soundName": "F1_ae_A_FH_Luister_goed_naar_de_woorden.mp3"
+                }
+            ]
+        },
+        {
+            "Key": 2,
+            "Value": [
+                {
+                    "text": "Denk aan \"<b>i</b>n\" en \"<b>E</b>ngland\". ",
+                    "soundName": "F2_i_L_FH_Denk_aan_in_England.mp3"
+                }
+            ]
+        },
+        {
+            "Key": 3,
+            "Value": [
+                {
+                    "text": "Dat is helaas niet het goede antwoord. Het goede antwoord is: {CorrectAnswer}",
+                    "soundName": "F3_i_L_FH_Dat_is_helaas_niet_het_goede_antwoord.mp3"
+                }
+            ]
+        },
+        {
+            "Key": 4,
+            "Value": []
+        }
+    ],
+    "otherFeedback": {
+
+    }
+}

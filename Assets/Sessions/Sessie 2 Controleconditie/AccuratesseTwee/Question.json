@@ -1,0 +1,450 @@
+[
+    {
+        "soundName": "Sit.mp3",
+        "word": "S[i]t",
+        "correctLetter": "i",
+        "falseLetters": [
+            "e",
+            "o",
+            "a"
+        ],
+        "difficulty": {
+            "level": 0,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Fit.mp3",
+        "word": "F[i]t",
+        "correctLetter": "i",
+        "falseLetters": [
+            "e",
+            "y",
+            "a"
+        ],
+        "difficulty": {
+            "level": 0,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Big.mp3",
+        "word": "B[i]g",
+        "correctLetter": "i",
+        "falseLetters": [
+            "y",
+            "u",
+            "a"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Drink.mp3",
+        "word": "Dr[i]nk",
+        "correctLetter": "i",
+        "falseLetters": [
+            "a",
+            "o",
+            "u"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Milk.mp3",
+        "word": "Mil[k]",
+        "correctLetter": "k",
+        "falseLetters": [
+            "i",
+            "m",
+            "l"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Fish.mp3",
+        "word": "[F]ish",
+        "correctLetter": "f",
+        "falseLetters": [
+            "i",
+            "s",
+            "h"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Think.mp3",
+        "word": "Th[i]nk",
+        "correctLetter": "i",
+        "falseLetters": [
+            "e",
+            "ea",
+            "a"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Chips.mp3",
+        "word": "Ch[i]ps",
+        "correctLetter": "i",
+        "falseLetters": [
+            "e",
+            "y",
+            "u"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Dinner.mp3",
+        "word": "D[i]nner",
+        "correctLetter": "i",
+        "falseLetters": [
+            "u",
+            "e",
+            "o"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Kitchen.mp3",
+        "word": "K[i]tchen",
+        "correctLetter": "i",
+        "falseLetters": [
+            "y",
+            "o",
+            "e"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "City.mp3",
+        "word": "C[i]ty",
+        "correctLetter": "i",
+        "falseLetters": [
+            "e",
+            "a",
+            "u"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Chicken.mp3",
+        "word": "Chic[k]en",
+        "correctLetter": "k",
+        "falseLetters": [
+            "i",
+            "h",
+            "n"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Children.mp3",
+        "word": "Ch[i]ldren",
+        "correctLetter": "i",
+        "falseLetters": [
+            "e",
+            "ei",
+            "u"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Evening.mp3",
+        "word": "Evenin[g]",
+        "correctLetter": "g",
+        "falseLetters": [
+            "i",
+            "n",
+            "e"
+        ],
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "American.mp3",
+        "word": "Amer[i]can",
+        "correctLetter": "i",
+        "falseLetters": [
+            "ie",
+            "e",
+            "a"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Beautiful.mp3",
+        "word": "Beauti[f]ul",
+        "correctLetter": "f",
+        "falseLetters": [
+            "i",
+            "l",
+            "b"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Hospital.mp3",
+        "word": "Hosp[i]tal",
+        "correctLetter": "i",
+        "falseLetters": [
+            "e",
+            "ea",
+            "a"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Magical.mp3",
+        "word": "Mag[i]cal",
+        "correctLetter": "i",
+        "falseLetters": [
+            "e",
+            "a",
+            "u"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Cinema.mp3",
+        "word": "Cine[m]a",
+        "correctLetter": "m",
+        "falseLetters": [
+            "i",
+            "c",
+            "a"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Animal.mp3",
+        "word": "An[i]mal",
+        "correctLetter": "i",
+        "falseLetters": [
+            "e",
+            "ie",
+            "y"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Dish.mp3",
+        "word": "Di[s]h",
+        "correctLetter": "s",
+        "falseLetters": [
+            "i",
+            "h",
+            "d"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Dip.mp3",
+        "word": "D[i]p",
+        "correctLetter": "i",
+        "falseLetters": [
+            "ie",
+            "u",
+            "ee"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Fill.mp3",
+        "word": "F[i]ll",
+        "correctLetter": "i",
+        "falseLetters": [
+            "y",
+            "ui",
+            "u"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "List.mp3",
+        "word": "Li[s]t",
+        "correctLetter": "s",
+        "falseLetters": [
+            "i",
+            "t",
+            "l"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Fridge.mp3",
+        "word": "Fr[i]dge",
+        "correctLetter": "i",
+        "falseLetters": [
+            "u",
+            "e",
+            "ai"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Thick.mp3",
+        "word": "Th[i]ck",
+        "correctLetter": "i",
+        "falseLetters": [
+            "e",
+            "ai",
+            "u"
+        ],
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Pudding.mp3",
+        "word": "Pudd[i]ng",
+        "correctLetter": "i",
+        "falseLetters": [
+            "e",
+            "a",
+            "e"
+        ],
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Plastic.mp3",
+        "word": "Plasti[c]",
+        "correctLetter": "c",
+        "falseLetters": [
+            "i",
+            "p",
+            "t"
+        ],
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Garlic.mp3",
+        "word": "Gar[l]ic",
+        "correctLetter": "l",
+        "falseLetters": [
+            "i",
+            "c",
+            "r"
+        ],
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Liquid.mp3",
+        "word": "L[i]quid",
+        "correctLetter": "i",
+        "falseLetters": [
+            "y",
+            "ea",
+            "e"
+        ],
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Invention.mp3",
+        "word": "[I]nvention",
+        "correctLetter": "i",
+        "falseLetters": [
+            "e",
+            "y",
+            "u"
+        ],
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Delicious.mp3",
+        "word": "Del[i]cious",
+        "correctLetter": "i",
+        "falseLetters": [
+            "e",
+            "oy",
+            "u"
+        ],
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    }
+]

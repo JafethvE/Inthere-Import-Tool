@@ -1,0 +1,92 @@
+[
+    {
+        "wordToTranslate": "breakfast",
+        "correctWord": "ontbijt",
+        "falseWords": [
+            "avondeten",
+            "lunch",
+            "tussendoortje"
+        ]
+    },
+    {
+        "wordToTranslate": "to eat",
+        "correctWord": "eten",
+        "falseWords": [
+            "rusten",
+            "bijten",
+            "kauwen"
+        ]
+    },
+    {
+        "wordToTranslate": "kitchen",
+        "correctWord": "keuken",
+        "falseWords": [
+            "slaapkamer",
+            "woonkamer",
+            "garage"
+        ]
+    },
+    {
+        "wordToTranslate": "hungry",
+        "correctWord": "hongerig",
+        "falseWords": [
+            "slaperig",
+            "dorstig",
+            "moe"
+        ]
+    },
+    {
+        "wordToTranslate": "cheese",
+        "correctWord": "kaas",
+        "falseWords": [
+            "worst",
+            "hagelslag",
+            "pindakaas"
+        ]
+    },
+    {
+        "wordToTranslate": "sugar",
+        "correctWord": "suiker",
+        "falseWords": [
+            "bloem",
+            "zout",
+            "peper"
+        ]
+    },
+    {
+        "wordToTranslate": "orange",
+        "correctWord": "sinaasappel",
+        "falseWords": [
+            "ananas",
+            "mandarijn",
+            "peer"
+        ]
+    },
+    {
+        "wordToTranslate": "evening",
+        "correctWord": "avond",
+        "falseWords": [
+            "middag",
+            "ochtend",
+            "nacht"
+        ]
+    },
+    {
+        "wordToTranslate": "farm",
+        "correctWord": "boerderij",
+        "falseWords": [
+            "dierentuin",
+            "bos",
+            "park"
+        ]
+    },
+    {
+        "wordToTranslate": "butter",
+        "correctWord": "boter",
+        "falseWords": [
+            "olie",
+            "wijn",
+            "broodbeleg"
+        ]
+    }
+]

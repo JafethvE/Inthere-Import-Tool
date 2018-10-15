@@ -1,0 +1,594 @@
+[
+    {
+        "soundName": "England.mp3",
+        "word": "England",
+        "correctWord": {
+            "soundName": "Orange.mp3",
+            "word": "Orange"
+        },
+        "falseWords": [
+            {
+                "soundName": "Often.mp3",
+                "word": "Often"
+            },
+            {
+                "soundName": "Collect.mp3",
+                "word": "Collect"
+            },
+            {
+                "soundName": "Expert.mp3",
+                "word": "Expert"
+            }
+        ],
+        "falseWordsSimple": [
+            {
+                "soundName": "Often.mp3",
+                "word": "Often"
+            },
+            {
+                "soundName": "Collect.mp3",
+                "word": "Collect"
+            },
+            {
+                "soundName": "Expert.mp3",
+                "word": "Expert"
+            }
+        ],
+        "difficulty": 0
+    },
+    {
+        "soundName": "In.mp3",
+        "word": "In",
+        "correctWord": {
+            "soundName": "Quick.mp3",
+            "word": "Quick"
+        },
+        "falseWords": [
+            {
+                "soundName": "And.mp3",
+                "word": "And"
+            },
+            {
+                "soundName": "World.mp3",
+                "word": "World"
+            },
+            {
+                "soundName": "Warm.mp3",
+                "word": "Warm"
+            }
+        ],
+        "falseWordsSimple": [
+            {
+                "soundName": "And.mp3",
+                "word": "And"
+            },
+            {
+                "soundName": "World.mp3",
+                "word": "World"
+            },
+            {
+                "soundName": "Warm.mp3",
+                "word": "Warm"
+            }
+        ],
+        "difficulty": 1
+    },
+    {
+        "soundName": "Live.mp3",
+        "word": "Live",
+        "correctWord": {
+            "soundName": "Big.mp3",
+            "word": "Big"
+        },
+        "falseWords": [
+            {
+                "soundName": "Fruit.mp3",
+                "word": "Fruit"
+            },
+            {
+                "soundName": "Tree.mp3",
+                "word": "Tree"
+            },
+            {
+                "soundName": "South.mp3",
+                "word": "South"
+            }
+        ],
+        "falseWordsSimple": [
+            {
+                "soundName": "Fruit.mp3",
+                "word": "Fruit"
+            },
+            {
+                "soundName": "Tree.mp3",
+                "word": "Tree"
+            },
+            {
+                "soundName": "South.mp3",
+                "word": "South"
+            }
+        ],
+        "difficulty": 1
+    },
+    {
+        "soundName": "Is.mp3",
+        "word": "Is",
+        "correctWord": {
+            "soundName": "Think.mp3",
+            "word": "Think"
+        },
+        "falseWords": [
+            {
+                "soundName": "Cold.mp3",
+                "word": "Cold"
+            },
+            {
+                "soundName": "Pound.mp3",
+                "word": "Pound"
+            },
+            {
+                "soundName": "Nice.mp3",
+                "word": "Nice"
+            }
+        ],
+        "falseWordsSimple": [
+            {
+                "soundName": "Cold.mp3",
+                "word": "Cold"
+            },
+            {
+                "soundName": "Pound.mp3",
+                "word": "Pound"
+            },
+            {
+                "soundName": "Nice.mp3",
+                "word": "Nice"
+            }
+        ],
+        "difficulty": 1
+    },
+    {
+        "soundName": "Children.mp3",
+        "word": "Children",
+        "correctWord": {
+            "soundName": "English.mp3",
+            "word": "English"
+        },
+        "falseWords": [
+            {
+                "soundName": "Weather.mp3",
+                "word": "Weather"
+            },
+            {
+                "soundName": "Useful.mp3",
+                "word": "Useful"
+            },
+            {
+                "soundName": "Travel.mp3",
+                "word": "Travel"
+            }
+        ],
+        "falseWordsSimple": [
+            {
+                "soundName": "Weather.mp3",
+                "word": "Weather"
+            },
+            {
+                "soundName": "Useful.mp3",
+                "word": "Useful"
+            },
+            {
+                "soundName": "Travel.mp3",
+                "word": "Travel"
+            }
+        ],
+        "difficulty": 2
+    },
+    {
+        "soundName": "Winter.mp3",
+        "word": "Winter",
+        "correctWord": {
+            "soundName": "British.mp3",
+            "word": "British"
+        },
+        "falseWords": [
+            {
+                "soundName": "Player.mp3",
+                "word": "Player"
+            },
+            {
+                "soundName": "Cowboy.mp3",
+                "word": "Cowboy"
+            },
+            {
+                "soundName": "Prefer.mp3",
+                "word": "Prefer"
+            }
+        ],
+        "falseWordsSimple": [
+            {
+                "soundName": "Player.mp3",
+                "word": "Player"
+            },
+            {
+                "soundName": "Cowboy.mp3",
+                "word": "Cowboy"
+            },
+            {
+                "soundName": "Prefer.mp3",
+                "word": "Prefer"
+            }
+        ],
+        "difficulty": 2
+    },
+    {
+        "soundName": "Sister.mp3",
+        "word": "Sister",
+        "correctWord": {
+            "soundName": "Language.mp3",
+            "word": "Language"
+        },
+        "falseWords": [
+            {
+                "soundName": "People.mp3",
+                "word": "People"
+            },
+            {
+                "soundName": "Although.mp3",
+                "word": "Although"
+            },
+            {
+                "soundName": "Pleasure.mp3",
+                "word": "Pleasure"
+            }
+        ],
+        "falseWordsSimple": [
+            {
+                "soundName": "People.mp3",
+                "word": "People"
+            },
+            {
+                "soundName": "Although.mp3",
+                "word": "Although"
+            },
+            {
+                "soundName": "Pleasure.mp3",
+                "word": "Pleasure"
+            }
+        ],
+        "difficulty": 2
+    },
+    {
+        "soundName": "Africa.mp3",
+        "word": "Africa",
+        "correctWord": {
+            "soundName": "Basketball.mp3",
+            "word": "Basketball"
+        },
+        "falseWords": [
+            {
+                "soundName": "Fabulous.mp3",
+                "word": "Fabulous"
+            },
+            {
+                "soundName": "Banana.mp3",
+                "word": "Banana"
+            },
+            {
+                "soundName": "Computer.mp3",
+                "word": "Computer"
+            }
+        ],
+        "falseWordsSimple": [
+            {
+                "soundName": "Fabulous.mp3",
+                "word": "Fabulous"
+            },
+            {
+                "soundName": "Banana.mp3",
+                "word": "Banana"
+            },
+            {
+                "soundName": "Computer.mp3",
+                "word": "Computer"
+            }
+        ],
+        "difficulty": 3
+    },
+    {
+        "soundName": "America.mp3",
+        "word": "America",
+        "correctWord": {
+            "soundName": "Supermarket.mp3",
+            "word": "Supermarket"
+        },
+        "falseWords": [
+            {
+                "soundName": "Hamburger.mp3",
+                "word": "Hamburger"
+            },
+            {
+                "soundName": "Superstar.mp3",
+                "word": "Superstar"
+            },
+            {
+                "soundName": "November.mp3",
+                "word": "November"
+            }
+        ],
+        "falseWordsSimple": [
+            {
+                "soundName": "Hamburger.mp3",
+                "word": "Hamburger"
+            },
+            {
+                "soundName": "Superstar.mp3",
+                "word": "Superstar"
+            },
+            {
+                "soundName": "November.mp3",
+                "word": "November"
+            }
+        ],
+        "difficulty": 3
+    },
+    {
+        "soundName": "Exotic.mp3",
+        "word": "Exotic",
+        "correctWord": {
+            "soundName": "December.mp3",
+            "word": "December"
+        },
+        "falseWords": [
+            {
+                "soundName": "October.mp3",
+                "word": "October"
+            },
+            {
+                "soundName": "Coconut.mp3",
+                "word": "Coconut"
+            },
+            {
+                "soundName": "Powerful.mp3",
+                "word": "Powerful"
+            }
+        ],
+        "falseWordsSimple": [
+            {
+                "soundName": "October.mp3",
+                "word": "October"
+            },
+            {
+                "soundName": "Coconut.mp3",
+                "word": "Coconut"
+            },
+            {
+                "soundName": "Powerful.mp3",
+                "word": "Powerful"
+            }
+        ],
+        "difficulty": 3
+    },
+    {
+        "soundName": "Ship.mp3",
+        "word": "Ship",
+        "correctWord": {
+            "soundName": "Rhythm.mp3",
+            "word": "Rhythm"
+        },
+        "falseWords": [
+            {
+                "soundName": "Drum.mp3",
+                "word": "Drum"
+            },
+            {
+                "soundName": "Camp.mp3",
+                "word": "Camp"
+            },
+            {
+                "soundName": "Doll.mp3",
+                "word": "Doll"
+            }
+        ],
+        "falseWordsSimple": [
+            {
+                "soundName": "Drum.mp3",
+                "word": "Drum"
+            },
+            {
+                "soundName": "Camp.mp3",
+                "word": "Camp"
+            },
+            {
+                "soundName": "Doll.mp3",
+                "word": "Doll"
+            }
+        ],
+        "difficulty": 4
+    },
+    {
+        "soundName": "Hill.mp3",
+        "word": "Hill",
+        "correctWord": {
+            "soundName": "Build.mp3",
+            "word": "Build"
+        },
+        "falseWords": [
+            {
+                "soundName": "Beach.mp3",
+                "word": "Beach"
+            },
+            {
+                "soundName": "Choice.mp3",
+                "word": "Choice"
+            },
+            {
+                "soundName": "Flag.mp3",
+                "word": "Flag"
+            }
+        ],
+        "falseWordsSimple": [
+            {
+                "soundName": "Beach.mp3",
+                "word": "Beach"
+            },
+            {
+                "soundName": "Choice.mp3",
+                "word": "Choice"
+            },
+            {
+                "soundName": "Flag.mp3",
+                "word": "Flag"
+            }
+        ],
+        "difficulty": 4
+    },
+    {
+        "soundName": "Bridge.mp3",
+        "word": "Bridge",
+        "correctWord": {
+            "soundName": "Gym.mp3",
+            "word": "Gym"
+        },
+        "falseWords": [
+            {
+                "soundName": "Sky.mp3",
+                "word": "Sky"
+            },
+            {
+                "soundName": "Heat.mp3",
+                "word": "Heat"
+            },
+            {
+                "soundName": "Ride.mp3",
+                "word": "Ride"
+            }
+        ],
+        "falseWordsSimple": [
+            {
+                "soundName": "Sky.mp3",
+                "word": "Sky"
+            },
+            {
+                "soundName": "Heat.mp3",
+                "word": "Heat"
+            },
+            {
+                "soundName": "Ride.mp3",
+                "word": "Ride"
+            }
+        ],
+        "difficulty": 4
+    },
+    {
+        "soundName": "Boring.mp3",
+        "word": "Boring",
+        "correctWord": {
+            "soundName": "Jacket.mp3",
+            "word": "Jacket"
+        },
+        "falseWords": [
+            {
+                "soundName": "Ballet.mp3",
+                "word": "Ballet"
+            },
+            {
+                "soundName": "Ladder.mp3",
+                "word": "Ladder"
+            },
+            {
+                "soundName": "Nature.mp3",
+                "word": "Nature"
+            }
+        ],
+        "falseWordsSimple": [
+            {
+                "soundName": "Ballet.mp3",
+                "word": "Ballet"
+            },
+            {
+                "soundName": "Ladder.mp3",
+                "word": "Ladder"
+            },
+            {
+                "soundName": "Nature.mp3",
+                "word": "Nature"
+            }
+        ],
+        "difficulty": 5
+    },
+    {
+        "soundName": "Artist.mp3",
+        "word": "Artist",
+        "correctWord": {
+            "soundName": "Mountain.mp3",
+            "word": "Mountain"
+        },
+        "falseWords": [
+            {
+                "soundName": "Balance.mp3",
+                "word": "Balance"
+            },
+            {
+                "soundName": "Creature.mp3",
+                "word": "Creature"
+            },
+            {
+                "soundName": "Soldier.mp3",
+                "word": "Soldier"
+            }
+        ],
+        "falseWordsSimple": [
+            {
+                "soundName": "Balance.mp3",
+                "word": "Balance"
+            },
+            {
+                "soundName": "Creature.mp3",
+                "word": "Creature"
+            },
+            {
+                "soundName": "Soldier.mp3",
+                "word": "Soldier"
+            }
+        ],
+        "difficulty": 5
+    },
+    {
+        "soundName": "Competition.mp3",
+        "word": "Competition",
+        "correctWord": {
+            "soundName": "Telephone.mp3",
+            "word": "Telephone"
+        },
+        "falseWords": [
+            {
+                "soundName": "Agree.mp3",
+                "word": "Agree"
+            },
+            {
+                "soundName": "Seaside.mp3",
+                "word": "Seaside"
+            },
+            {
+                "soundName": "Opera.mp3",
+                "word": "Opera"
+            }
+        ],
+        "falseWordsSimple": [
+            {
+                "soundName": "Agree.mp3",
+                "word": "Agree"
+            },
+            {
+                "soundName": "Seaside.mp3",
+                "word": "Seaside"
+            },
+            {
+                "soundName": "Opera.mp3",
+                "word": "Opera"
+            }
+        ],
+        "difficulty": 5
+    }
+]

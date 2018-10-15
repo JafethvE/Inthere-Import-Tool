@@ -1,0 +1,39 @@
+[
+    {
+        "soundName": "Spaceletter_Countries",
+        "text": "Hi! Last time Mika told us about life on earth, but she also told me about some countries of the world. Let\u2019s listen to what she said!",
+        "keyPoints": [],
+        "clickableWords": []
+    },
+    {
+        "soundName": "Countries_story",
+        "text": "There are many countries in the world. In a lot of big countries like America, England, Australia, and South-Africa people speak English. Although people who live in these countries speak the same language, they use different money. For example, in America they use the American dollar, and in England the British pound. In winter months, like October, November and December, people in cold countries, like England, often prefer to travel for pleasure to warmer countries. Some people think warm countries are fabulous because the weather is nice. A lot of people also like America. America is a powerful country that is well-known for its cowboys, basketball players and superstars. There are big supermarkets, and they like to eat hamburgers. If you want to become an expert on the countries of the world, a computer is very useful and is a quick way to collect more information!",
+        "keyPoints": [],
+        "clickableWords": [
+            {
+                "word": "Although",
+                "comment": "alhoewel"
+            },
+            {
+                "word": "Often",
+                "comment": "vaak"
+            },
+            {
+                "word": "Pleasure",
+                "comment": "plezier"
+            },
+            {
+                "word": "Well-known",
+                "comment": "bekend"
+            },
+            {
+                "word": "Useful",
+                "comment": "bruikbaar"
+            },
+            {
+                "word": "to collect",
+                "comment": "verzamelen"
+            }
+        ]
+    }
+]

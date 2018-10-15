@@ -1,0 +1,92 @@
+[
+    {
+        "image": "cat.png",
+        "correctWord": "cat",
+        "falseWords": [
+            "bird",
+            "dog",
+            "cow"
+        ]
+    },
+    {
+        "image": "jam.png",
+        "correctWord": "jam",
+        "falseWords": [
+            "honey",
+            "sugar",
+            "fruit"
+        ]
+    },
+    {
+        "image": "band.png",
+        "correctWord": "band",
+        "falseWords": [
+            "disco",
+            "jazz",
+            "festival"
+        ]
+    },
+    {
+        "image": "flat.png",
+        "correctWord": "flat",
+        "falseWords": [
+            "house",
+            "garage",
+            "church"
+        ]
+    },
+    {
+        "image": "africa.png",
+        "correctWord": "africa",
+        "falseWords": [
+            "australia",
+            "the netherlands",
+            "america"
+        ]
+    },
+    {
+        "image": "piano.png",
+        "correctWord": "piano",
+        "falseWords": [
+            "guitar",
+            "drum",
+            "bass"
+        ]
+    },
+    {
+        "image": "salad.png",
+        "correctWord": "salad",
+        "falseWords": [
+            "tomato",
+            "spaghetti",
+            "rice"
+        ]
+    },
+    {
+        "image": "sandwich.png",
+        "correctWord": "sandwich",
+        "falseWords": [
+            "hamburger",
+            "bread",
+            "biscuit"
+        ]
+    },
+    {
+        "image": "hamburger.png",
+        "correctWord": "hamburger",
+        "falseWords": [
+            "pizza",
+            "soup",
+            "lunch"
+        ]
+    },
+    {
+        "image": "apple.png",
+        "correctWord": "apple",
+        "falseWords": [
+            "orange",
+            "onion",
+            "pear"
+        ]
+    }
+]

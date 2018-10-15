@@ -1,0 +1,92 @@
+[
+    {
+        "wordToTranslate": "fat",
+        "correctWord": "dik",
+        "falseWords": [
+            "hard",
+            "dun",
+            "groot"
+        ]
+    },
+    {
+        "wordToTranslate": "happy",
+        "correctWord": "blij",
+        "falseWords": [
+            "droevig",
+            "bang",
+            "boos"
+        ]
+    },
+    {
+        "wordToTranslate": "saturday",
+        "correctWord": "zaterdag",
+        "falseWords": [
+            "zondag",
+            "woensdag",
+            "donderdag"
+        ]
+    },
+    {
+        "wordToTranslate": "brother",
+        "correctWord": "broer",
+        "falseWords": [
+            "zus",
+            "kind",
+            "neef"
+        ]
+    },
+    {
+        "wordToTranslate": "family",
+        "correctWord": "familie",
+        "falseWords": [
+            "vriend",
+            "vader",
+            "meester"
+        ]
+    },
+    {
+        "wordToTranslate": "boil",
+        "correctWord": "koken",
+        "falseWords": [
+            "braden",
+            "stomen",
+            "bakken"
+        ]
+    },
+    {
+        "wordToTranslate": "meal",
+        "correctWord": "maaltijd",
+        "falseWords": [
+            "voedsel",
+            "brood",
+            "ontbijt"
+        ]
+    },
+    {
+        "wordToTranslate": "holiday",
+        "correctWord": "vakantie",
+        "falseWords": [
+            "uitje",
+            "vrije tijd",
+            "pauze"
+        ]
+    },
+    {
+        "wordToTranslate": "animal",
+        "correctWord": "dier",
+        "falseWords": [
+            "hond",
+            "kat",
+            "persoon"
+        ]
+    },
+    {
+        "wordToTranslate": "black",
+        "correctWord": "zwart",
+        "falseWords": [
+            "paars",
+            "blauw",
+            "wit"
+        ]
+    }
+]

@@ -1,0 +1,258 @@
+[
+    {
+        "soundName": "Cat.mp3",
+        "word": "Cat",
+        "difficulty": {
+            "level": 1,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Fat.mp3",
+        "word": "Fat",
+        "difficulty": {
+            "level": 1,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Black.mp3",
+        "word": "Black",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Glad.mp3",
+        "word": "Glad",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Dad.mp3",
+        "word": "Dad",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Jam.mp3",
+        "word": "Jam",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Band.mp3",
+        "word": "Band",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Flat.mp3",
+        "word": "Flat",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Apple.mp3",
+        "word": "Apple",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Granny.mp3",
+        "word": "Granny",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Salad.mp3",
+        "word": "Salad",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Programme.mp3",
+        "word": "Programme",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Sandwich.mp3",
+        "word": "Sandwich",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Happy.mp3",
+        "word": "Happy",
+        "difficulty": {
+            "level": 1,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Animal.mp3",
+        "word": "Animal",
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Family.mp3",
+        "word": "Family",
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Saturday.mp3",
+        "word": "Saturday",
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Hamburger.mp3",
+        "word": "Hamburger",
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Africa.mp3",
+        "word": "Africa",
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "January.mp3",
+        "word": "January",
+        "difficulty": {
+            "level": 2,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Pack.mp3",
+        "word": "Pack",
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Mad.mp3",
+        "word": "Mad",
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Cash.mp3",
+        "word": "Cash",
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Fan.mp3",
+        "word": "Fan",
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Badge.mp3",
+        "word": "Badge",
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Add.mp3",
+        "word": "Add",
+        "difficulty": {
+            "level": 2,
+            "round": 1
+        }
+    },
+    {
+        "soundName": "Carrot.mp3",
+        "word": "Carrot",
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Fashion.mp3",
+        "word": "Fashion",
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Exam.mp3",
+        "word": "Exam",
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Talent.mp3",
+        "word": "Talent",
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Factory.mp3",
+        "word": "Factory",
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    },
+    {
+        "soundName": "Caravan.mp3",
+        "word": "Caravan",
+        "difficulty": {
+            "level": 3,
+            "round": 0
+        }
+    }
+]

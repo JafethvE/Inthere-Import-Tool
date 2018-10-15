@@ -1,0 +1,55 @@
+[
+    {
+        "soundName": "Spaceletter_Family",
+        "text": "Although I live in space, I like to listen to stories about people who live on earth. In every lesson, my good friend Mika will tell you stories about life on earth. I hope you like her stories as much as I do!",
+        "keyPoints": [],
+        "clickableWords": []
+    },
+    {
+        "soundName": "Family_story",
+        "text": "Hi, my name is Mika! I live in a flat with my mum, dad, brother and sister. So, my parents have three kids, two girls and one boy. We also have a cat, Kitty. Kitty is our pet. She is a bit fat because she is a lazy animal and eats a lot! On Saturdays, we sometimes hold a family day with my uncle, aunt, and cousins. The first part of the programme is a big meal! My mum makes onion soup in a big pot. As my mum\u2019s assistant, I chop the onions. Sometimes I also bake biscuits. Last week this turned out to be a disaster! The temperature of the oven was too high, the biscuits burned and were completely black. I was very sad, but my mum gave me a hug. Instead of biscuits I had a jam sandwich, a boiled egg, an apple, and a glass of juice. My brother had a hamburger, but my sister only had a tomato salad. My sister is on a diet. The grownups had pork. Afterwards, everybody\u2019s belly was full! On family days I miss my grandparents. They have a company in Africa and live in a very exotic place with elephants! But, next year in January they will be here on holiday and will celebrate with us. Then my granny will play the piano. She used to play in a band. I am very glad they are coming. I wish they could stay forever! I will beg them to stay with us, and make us all very happy!",
+        "keyPoints": [],
+        "clickableWords": [
+            {
+                "word": "sometimes",
+                "comment": "soms"
+            },
+            {
+                "word": "to hold",
+                "comment": "houden"
+            },
+            {
+                "word": "temperature",
+                "comment": "temperatuur"
+            },
+            {
+                "word": "completely",
+                "comment": "volledig of helemaal"
+            },
+            {
+                "word": "grownups",
+                "comment": "volwassenen"
+            },
+            {
+                "word": "afterwards",
+                "comment": "daarna"
+            },
+            {
+                "word": "everybody",
+                "comment": "iedereen"
+            },
+            {
+                "word": "grandparents",
+                "comment": "grootouders"
+            },
+            {
+                "word": "celebrate",
+                "comment": "vieren"
+            },
+            {
+                "word": "granny",
+                "comment": "grootmoeder"
+            }
+        ]
+    }
+]

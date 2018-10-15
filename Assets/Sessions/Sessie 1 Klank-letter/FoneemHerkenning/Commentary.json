@@ -1,0 +1,72 @@
+{
+    "explanation": [
+        {
+            "text": "Zoals je net hoorde, wordt de klank    \uf028   in het Engels vaak als <b>a</b> geschreven. ",
+            "soundName": "R_ae_A_FH_Zoals_je_net_hoorde_ae.mp3"
+        },
+        {
+            "text": "Voordat we gaan oefenen met het schrijven van de klank  \uf028  , gaan we eerst op zoek naar woorden met  \uf028  .",
+            "soundName": "R_ae_A_FH_Voordat_we_gaan_oefenen_met_het_schrijven_ae.mp3"
+        },
+        {
+            "text": "Je krijgt eerst een woord met de klank    \uf028   te horen, daarna moet je bij het gehoorde woord een ander woord zoeken dat ook de klank  \uf028  heeft. ",
+            "soundName": "R_ae_A_FH_Je_krijgt_eerst_een_woord_met_de_klank_\u00e6_te_horen.mp3"
+        },
+        {
+            "text": "Luister goed naar het woord en kies het andere woord met de klank  \uf028  .",
+            "soundName": "R_ae_A_FH_Luister_goed_naar_het_woord_ae.mp3"
+        }
+    ],
+    "standardFeedback": [
+        {
+            "Key": 1,
+            "Value": [
+                {
+                    "text": "Luister goed, het gaat om de klank   \uf028  .",
+                    "soundName": "F1_ae_A_FH_Luister_goed_het_gaat_om_de_klank_ae.mp3"
+                },
+                {
+                    "text": "Deze klank wordt in het Engels heel vaak als <b>a</b> geschreven. ",
+                    "soundName": "F1_ae_A_FH_Deze_klank_wordt_in_het_Engels_a.mp3"
+                },
+                {
+                    "text": "Een voorbeeld: \"c<b>a</b>t\". ",
+                    "soundName": "F1_ae_A_FH_Een_voorbeeld_cat.mp3"
+                },
+                {
+                    "text": "In welk woord hoor je de klank   \uf028  ?",
+                    "soundName": "F1_ae_A_FH_In_welk_woord_hoor_je_de_klank_ae.mp3"
+                },
+                {
+                    "text": "Luister goed naar de woorden en probeer het nog eens. ",
+                    "soundName": "F1_ae_A_FH_Luister_goed_naar_de_woorden.mp3"
+                }
+            ]
+        },
+        {
+            "Key": 2,
+            "Value": [
+                {
+                    "text": "Denk aan \"c<b>a</b>t\". ",
+                    "soundName": "F2_ae_A_FH_Denk_aan_cat.mp3"
+                }
+            ]
+        },
+        {
+            "Key": 3,
+            "Value": [
+                {
+                    "text": "Dat is helaas niet het goede antwoord. Het goede antwoord is: {CorrectAnswer}",
+                    "soundName": "F3_ae_A_FH_Dat_is_helaas_niet_het_goede_antwoord.mp3"
+                }
+            ]
+        },
+        {
+            "Key": 4,
+            "Value": []
+        }
+    ],
+    "otherFeedback": {
+
+    }
+}
