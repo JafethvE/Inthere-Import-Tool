@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-//Generates and manages the level based on the data it gets from the imported JSon.
+//Generates and manages the level based on the data it gets from the imported Json.
 public class Level : MonoBehaviour {
 
     //The different minigames the level employs.
@@ -76,12 +76,12 @@ public class Level : MonoBehaviour {
         return currentGameName;
     }
 
-    //Starts the level on the game that we
+    //Starts the level on the first game.
     private void StartLevel()
     {
         currentSession = "Sessie 1 Klank-letter";
         currentGame = Game.Woordenschat1;
-        string json = fileSystem.GetJSON(CurrentSession, GetCurrentGameName(), "Question.json");
+        string json = fileSystem.GetJson(CurrentSession, GetCurrentGameName(), "Question.json");
         List<Woordenschat1Question> questions = JsonConvert.DeserializeObject<List<Woordenschat1Question>>(json);
         int counter = 0;
         foreach(Woordenschat1Question question in questions)
