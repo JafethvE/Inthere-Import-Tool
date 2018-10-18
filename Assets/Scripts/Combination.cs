@@ -1,5 +1,8 @@
 ﻿public class Combination {
 
-    string dutch;
-    string english;
+    //The Dutch word for this combination.
+    public string dutch;
+
+    //The English word for this combination.
+    public string english;
 }
