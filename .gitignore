@@ -7981,3 +7981,7 @@
 /InThere-Import-Tool.Editor.csproj
 /InThere-Import-Tool.sln
 /Temp/*
+/InThere-Import-Tool.csproj
+/InThere-Import-Tool.Editor.csproj
+/InThere-Import-Tool.sln
+/Library/*
