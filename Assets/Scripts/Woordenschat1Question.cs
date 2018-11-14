@@ -1,11 +1,50 @@
-﻿public class Woordenschat1Question : Question {
+﻿public class Woordenschat1Question {
 
     //The correct answer fitting with the image.
-    public string correctWord;
+    private string correctWord;
 
     //The false words that will be shown to the player.
-    public string[] falseWords;
+    private string[] falseWords;
 
     //The filename of the image used.
-    public string image;
+    private string image;
+
+    public string CorrectWord
+    {
+        get
+        {
+            return correctWord;
+        }
+
+        set
+        {
+            correctWord = value;
+        }
+    }
+
+    public string[] FalseWords
+    {
+        get
+        {
+            return falseWords;
+        }
+
+        set
+        {
+            falseWords = value;
+        }
+    }
+
+    public string Image
+    {
+        get
+        {
+            return image;
+        }
+
+        set
+        {
+            image = value;
+        }
+    }
 }

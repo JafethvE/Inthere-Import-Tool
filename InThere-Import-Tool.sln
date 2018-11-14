@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InThere-Import-Tool", "InThere-Import-Tool.csproj", "{13A19A70-D055-734C-0158-48005C050515}"
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inthere-Import-Tool", "Inthere-Import-Tool.csproj", "{0BB598FC-CC13-B2E5-4B3F-0E41E69D8A82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InThere-Import-Tool.Editor", "InThere-Import-Tool.Editor.csproj", "{70662B0D-10E9-9F7F-CE05-711CBBBB87C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inthere-Import-Tool", "Inthere-Import-Tool.csproj", "{0BB598FC-CC13-B2E5-4B3F-0E41E69D8A82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inthere-Import-Tool.Editor", "Inthere-Import-Tool.Editor.csproj", "{A97ED353-AB55-3488-0144-D6439503B106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inthere-Import-Tool.Editor", "Inthere-Import-Tool.Editor.csproj", "{A97ED353-AB55-3488-0144-D6439503B106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inthere-Import-Tool.Editor", "Inthere-Import-Tool.Editor.csproj", "{A97ED353-AB55-3488-0144-D6439503B106}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,19 +17,28 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{13A19A70-D055-734C-0158-48005C050515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{13A19A70-D055-734C-0158-48005C050515}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{13A19A70-D055-734C-0158-48005C050515}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{13A19A70-D055-734C-0158-48005C050515}.Release|Any CPU.Build.0 = Release|Any CPU
-		{70662B0D-10E9-9F7F-CE05-711CBBBB87C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{70662B0D-10E9-9F7F-CE05-711CBBBB87C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{70662B0D-10E9-9F7F-CE05-711CBBBB87C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{70662B0D-10E9-9F7F-CE05-711CBBBB87C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB598FC-CC13-B2E5-4B3F-0E41E69D8A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB598FC-CC13-B2E5-4B3F-0E41E69D8A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB598FC-CC13-B2E5-4B3F-0E41E69D8A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB598FC-CC13-B2E5-4B3F-0E41E69D8A82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB598FC-CC13-B2E5-4B3F-0E41E69D8A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB598FC-CC13-B2E5-4B3F-0E41E69D8A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB598FC-CC13-B2E5-4B3F-0E41E69D8A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB598FC-CC13-B2E5-4B3F-0E41E69D8A82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A97ED353-AB55-3488-0144-D6439503B106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97ED353-AB55-3488-0144-D6439503B106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97ED353-AB55-3488-0144-D6439503B106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97ED353-AB55-3488-0144-D6439503B106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A97ED353-AB55-3488-0144-D6439503B106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97ED353-AB55-3488-0144-D6439503B106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97ED353-AB55-3488-0144-D6439503B106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97ED353-AB55-3488-0144-D6439503B106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A97ED353-AB55-3488-0144-D6439503B106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97ED353-AB55-3488-0144-D6439503B106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97ED353-AB55-3488-0144-D6439503B106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97ED353-AB55-3488-0144-D6439503B106}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5C8B6F5F-BCFA-4E2B-83F2-BC48D02A863A}
 	EndGlobalSection
 EndGlobal

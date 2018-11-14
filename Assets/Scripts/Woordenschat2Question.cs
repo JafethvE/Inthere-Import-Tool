@@ -1,11 +1,50 @@
-﻿public class Woordenschat2Question : Question {
+﻿public class Woordenschat2Question {
 
     //The correct English word.
-    public string correctWord;
+    private string correctWord;
 
     //The Dutch word that the player must translate.
-    public string wordToTranslate;
+    private string wordToTranslate;
 
     //The false answers shown to the player.
-    public string[] falseWords;
+    private string[] falseWords;
+
+    public string CorrectWord
+    {
+        get
+        {
+            return correctWord;
+        }
+
+        set
+        {
+            correctWord = value;
+        }
+    }
+
+    public string WordToTranslate
+    {
+        get
+        {
+            return wordToTranslate;
+        }
+
+        set
+        {
+            wordToTranslate = value;
+        }
+    }
+
+    public string[] FalseWords
+    {
+        get
+        {
+            return falseWords;
+        }
+
+        set
+        {
+            falseWords = value;
+        }
+    }
 }

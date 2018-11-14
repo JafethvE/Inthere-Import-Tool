@@ -1,8 +1,34 @@
 ﻿public class Combination {
 
     //The Dutch word for this combination.
-    public string dutch;
+    private string dutch;
 
     //The English word for this combination.
-    public string english;
+    private string english;
+
+    public string Dutch
+    {
+        get
+        {
+            return dutch;
+        }
+
+        set
+        {
+            dutch = value;
+        }
+    }
+
+    public string English
+    {
+        get
+        {
+            return english;
+        }
+
+        set
+        {
+            english = value;
+        }
+    }
 }
