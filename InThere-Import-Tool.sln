@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inthere-Import-Tool", "Inth
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inthere-Import-Tool", "Inthere-Import-Tool.csproj", "{0BB598FC-CC13-B2E5-4B3F-0E41E69D8A82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inthere-Import-Tool", "Inthere-Import-Tool.csproj", "{0BB598FC-CC13-B2E5-4B3F-0E41E69D8A82}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inthere-Import-Tool.Editor", "Inthere-Import-Tool.Editor.csproj", "{A97ED353-AB55-3488-0144-D6439503B106}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inthere-Import-Tool.Editor", "Inthere-Import-Tool.Editor.csproj", "{A97ED353-AB55-3488-0144-D6439503B106}"
@@ -17,6 +19,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BB598FC-CC13-B2E5-4B3F-0E41E69D8A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB598FC-CC13-B2E5-4B3F-0E41E69D8A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB598FC-CC13-B2E5-4B3F-0E41E69D8A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB598FC-CC13-B2E5-4B3F-0E41E69D8A82}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0BB598FC-CC13-B2E5-4B3F-0E41E69D8A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0BB598FC-CC13-B2E5-4B3F-0E41E69D8A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BB598FC-CC13-B2E5-4B3F-0E41E69D8A82}.Release|Any CPU.ActiveCfg = Release|Any CPU

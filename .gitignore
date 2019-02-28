@@ -6,3 +6,4 @@
 *.sln
 /Packages/*
 /Build/*
+/Logs/*
